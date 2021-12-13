@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\oleks\source\repos\Vector\Vector\Source.cpp(43,1): warning C4010: однострочный комментарий содержит знак объединения строк
+C:\Users\oleks\source\repos\Vector\Vector\Source.cpp(85,1): warning C4010: однострочный комментарий содержит знак объединения строк
+C:\Users\oleks\source\repos\Vector\Vector\Source.cpp(102,1): warning C4010: однострочный комментарий содержит знак объединения строк
+C:\Users\oleks\source\repos\Vector\Vector\Source.cpp(120,1): warning C4010: однострочный комментарий содержит знак объединения строк
+C:\Users\oleks\source\repos\Vector\Vector\Source.cpp(132,1): warning C4010: однострочный комментарий содержит знак объединения строк
+C:\Users\oleks\source\repos\Vector\Vector\Source.cpp(157,1): warning C4010: однострочный комментарий содержит знак объединения строк
+C:\Users\oleks\source\repos\Vector\Vector\Source.cpp(88,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\oleks\source\repos\Vector\Vector\Source.cpp(229,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Vector.vcxproj -> C:\Users\oleks\source\repos\Vector\Debug\Vector.exe
